@@ -6,9 +6,9 @@ export default function Navbar() {
     <>
     <nav className="navbar">
         <ul className="navbar-menu">
-            <li className="navbar-item">Home</li>
-            <li className="navbar-item">About</li>
-            <li className="navbar-item">Contact</li>
+            <li className="navbar-item">JIRA</li>
+            <li className="navbar-item">Projects</li>
+            <li className="navbar-item">Backlogs</li>
         </ul>
     </nav>
     </>
